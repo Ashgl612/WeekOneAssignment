@@ -1,6 +1,6 @@
 ## Screenshot 1
-![Screenshot1](Images/Screenshot 2026-01-27 at 10.03.17 PM.png)
+![Screenshot1](Images/Screenshot1.png)
 ## Screenshot 2
-![Screenshot2](Images/Screenshot 2026-01-27 at 10.03.41 PM.png)
+![Screenshot2](Images/Screenshot2.png)
 ## Favorite Video Game OST
-[RaymanLegends]:(https://youtu.be/yT6XOfy2gEE?si=h22LSjZ2O9jqeilj)
+[RaymanLegends] (https://youtu.be/yT6XOfy2gEE?si=h22LSjZ2O9jqeilj)
